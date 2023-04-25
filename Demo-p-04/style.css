@@ -244,7 +244,7 @@ a {
 
 .feature-container,
 .testimonials-container {
-  background: rgba(147, 193, 25, 1);
+  background: #03A3F6;
 }
 .feature-container .r-part {
   padding: 100px 92px 100px 0;
@@ -292,7 +292,7 @@ fact container */
 .carosel-container .caro-header h2 span,
 .consultation-container .consult-header h2 span {
   font-weight: 700;
-  color: rgba(147, 193, 25, 1);
+  color: #03A3F6;
 }
 .fact-container .fact-header p {
   color: #ffffff;
@@ -300,7 +300,7 @@ fact container */
 }
 
 .fact-container .fact-info .fact-icon {
-  color: #93c119;
+  color: #03A3CF;
   font-size: 35px;
 }
 
@@ -313,7 +313,7 @@ fact container */
   line-height: 34px;
 
   text-transform: uppercase;
-  color: #93c119;
+  color: #03A3CF;
 }
 .fact-container .fact-info p {
   font-family: "Inter";
@@ -357,12 +357,12 @@ fact container */
 
 .service-container .s-icon {
   background: #282828;
-  border: 1px solid #93c119;
+  border: 1px solid #03A3CF;
   border-radius: 10px;
   width: 50px;
   height: 50px;
   font-size: 15px;
-  color: rgba(147, 193, 25, 1);
+  color: rgba(3, 163, 207, 0.8);
 }
 
 .service-container .service-info {
@@ -459,6 +459,12 @@ fact container */
 .carosel-container .caro-info.caro-bg6 {
   background: url(./images/c6.png) no-repeat center center/cover;
 }
+.carosel-container .caro-info.caro-bg7 {
+  background: url(./images/c7.png) no-repeat center center/cover;
+}
+.carosel-container .caro-info.caro-bg8 {
+  background: url(./images/c8.png) no-repeat center center/cover;
+}
 
 .testimonials-container .test-header h2 {
   font-family: "Inter";
@@ -552,7 +558,7 @@ fact container */
   text-align: center;
   text-transform: uppercase;
 
-  color: #93c119;
+  color: #03A3CF;
 }
 .consultation-container .card .card-text {
   font-family: "Inter";
@@ -567,7 +573,7 @@ fact container */
   color: #ffffff;
 }
 .consultation-container .card .card-btn {
-  background: #93c119;
+  background: #03A3CF;
   border-radius: 30px;
   width: 189px;
   height: 57px;
@@ -585,9 +591,9 @@ fact container */
   width: 160px;
   height: 160px;
   background: #3d3d3c;
-  border: 3px solid #93c119;
+  border: 3px solid #03A3CF;
   font-size: 67px;
-  color: rgba(147, 193, 25, 1);
+  color: rgba(3, 163, 207, 1);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -617,7 +623,7 @@ fact container */
 /* Footer section */
 .footer-container{
   background: #282828;
-  border-top: 3px solid rgba(147, 193, 25, 1);
+  border-top: 3px solid rgba(2, 164, 248, 1);
   border-top: 5px solid linear-gradient(rgba(147, 193, 25, 1),rgba(255, 255, 255, 0));
 }
 
@@ -638,7 +644,7 @@ font-weight: 600;
 font-size: 19px;
 line-height: 28px;
 letter-spacing: 0.01em;
-color: #93C119;
+color: #02A4F8;
 }
 
 .footer-container .footer-title h5{
@@ -650,7 +656,7 @@ color: #93C119;
   line-height: 24px;
   text-transform: capitalize;
   
-  color: #93C119;
+  color: #02A4F8;
   
 }
 
@@ -735,7 +741,7 @@ padding-top: 15px;
 .footer-container .footer-card2 button {
   width: 227px;
   height: 57px;
-  background: #93C119;
+  background: #02A4F8;
   border-radius: 30px;
   display: flex;
   align-items: center;
